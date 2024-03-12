@@ -3,8 +3,8 @@
 
 ## Dossier de conception - contenu documentaire du site web : 
 
-[_Partie 1 - Principes généraux_](DCG_principes_generaux.md) 
-_Partie 2 - Description des contenus documentaires partagés lors de l'atelier_
+[_Partie 1 - Principes généraux_](DCG_principes_generaux.md)  <br>
+<u> ___Partie 2 - Description des contenus documentaires partagés lors de l'atelier___  </u>
 
 ---
 
@@ -23,12 +23,11 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
     >    
    
 
-2. Entrée thématique : __B__ comme __Big Data__ 
+1. Entrée thématique : __B__ comme __Big Data__ 
 
     >   Les défintions pour cette entrée renvoient :
     > - aux phénomènes de __massification de collecte des données__ 
     > - aux enjeux techniques associés, le __Big Data__
-
 
 
 1. Entrée thématique : __C__ comme __Chomsky__ : une chronologie de l'emergence de l'IA
@@ -157,6 +156,7 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
 1. Entrée thématique : __W__ comme __Web , Wordpress__ : PageRank et les réseaux
     > Cette entrée du glossaire rassemble des notions de bases sur le  __web__ 
      et les réseaux, __le référencement__ des sites du réseau internet
+
 1. Entrée thématique : __X__ comme __X__ 
     > Cette entrée du glossaire rassemble les éléments en rapport avec le __secret et l'interdit__ autour de l'IA et du web: 
     >  - Liste des évènements liés à un usage transgressif de l'IA ou des bots, 
@@ -166,7 +166,7 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
    > Cette entrée du glossaire propose des __recommandations__ et une __méthodologie d'approche__ lors de l'introduction d'un projet informatique intégrant l'IA pour :
     >  - Les chefs d'entreprise ou décisionnaires : éléments de méthodologie, points de contrôle et de vigilence
     >  - Les représentants du personnels :   éléments de méthodologie, points de contrôle et de vigilence, levier d'actions
-<br>
+
 1. Entrée thématique : __Z__ comme __Zapping__ 
     > Cette entrée du glossaire est relative aux mécanisme connus d'emprise :
     >  - du numérique et des écrans
@@ -174,18 +174,16 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
 
 
 
-Chaque entrée thématique du glossaire dispose d'un tag dédié dans l'outil : c'est l'exemple du tag @Apprentissage pour la thématique rassemblée à l'entrée -A- du glossaire 
+* Chaque entrée thématique du glossaire dispose d'un tag dédié dans l'outil : c'est l'exemple du tag @Apprentissage pour la thématique rassemblée à l'entrée -A- du glossaire 
 
-Une entrée thématique contient des termes de lexique (tag = @definition)
+* Une entrée thématique contient des termes de lexique (tag = @definition)
 Elle peut également être asssociée à une ou plusieurs activités.
 
-Le contenu détaillé du glossaire est l'objet d'un livrable du projet.
+<br>
+
+* Le contenu détaillé du glossaire est l'objet d'un livrable du projet. 
  
-
-
 _Le contenu du glossaire et les defintions constituants  <u> les articles, sont décrits en détails dans l'annexe A</u> :  Annexe A1, pour la lettre A, A2 pour la lettre B..._ 
-
-
 
 ---
 
@@ -198,20 +196,18 @@ __Les sources de defintions validées__
 
 * Source :  CESE  _Novembre 2023 - L'intelligence artificielle (IA) - risques et opportunités : des enjeux à débattre_ [^1]
 
-→ Remarque sur le choix de cette source : A priori , les actes du colloque constituent un bon consensus pour la communauté DialIA, en terme de contenu.
+  → Remarque sur le choix de cette source : A priori , les actes du colloque constituent un bon consensus pour la communauté DialIA, en terme de contenu.
 
 __Autres sources__  :
 
-LEGIFRANCE
-
-* _Vocabulaire de l'intelligence artificielle_ (liste de termes, expressions et définitions adoptés)
+> LEGIFRANCE
+> * _Vocabulaire de l'intelligence artificielle_ (liste de termes, expressions et définitions adoptés)
 [vocabulaire de l'intelligene artificielle - source legifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037783813)
 
 
 
-WIKIPEDIA
-
-* _Lexique en français de l'intelligence artifielle_
+> WIKIPEDIA
+> * _Lexique en français de l'intelligence artifielle_
 [Lexique en francais de l'intelligence artificelle - source wikipedia](https://fr.wiktionary.org/wiki/Cat%C3%A9gorie:L_exique_en_fran%C3%A7ais_de_l%E2%80%99intelligence_artificielle)
 
 
@@ -241,7 +237,7 @@ Exemple :
  1. vers des liens internes au web documentaire, pour des compléments de documentation, des mises en situations ou des animations , avec si possible des précisions sur leurs natures ou leurs intérêts.  
 
 
- Pour chaque définition du web documentaire dispose d'un __tag__ (@Definition)
+ * Pour chaque définition du web documentaire dispose d'un __tag__ (@Definition)
 Le lexique complet est accessible sous la forme d'une liste classée par  ordre alphabétiques des termes, 
 
  > Le glossaire est une partie du lexique des termes définis et disponibles, selectionnés autour d'une thématique. Un systeme de navigation permet de passer facilement d'une défintion à une autre par des liens d'associations divers. 
@@ -258,73 +254,75 @@ _Le contenu du glossaire et les defintions constituants  <u> les articles, sont 
 
 ###### Contenu détaillé du glossaire : annexes A 
 
- * [annexe A1]() : Entrée thématique A 
-* [annexe A2]() : Définitions de l'entrée thématique B 
-* [annexe A3]() : Définitions de l'entrée thématique C 
-* [annexe A4]() : Définitions de l'entrée thématique D 
-* [annexe A5]() : Définitions de l'entrée thématique E 
-* [annexe A6]() : Définitions de l'entrée thématique F 
-* [annexe A7]() : Définitions de l'entrée thématique G 
-* [annexe A8]() : Définitions de l'entrée thématique H 
-* [annexe A9]() : Entrée thématique I 
-* [annexe A10]() : Définitions de l'entrée thématique J 
-* [annexe A11](): Définitions de l'entrée thématique K 
+ * [annexe A1](Annexe_A1.md) : Entrée thématique Lettre A 
+* [annexe A2](Annexe_A2.md) : Entrée thématique Lettre B 
+* [annexe A3](Annexe_A3.md) : Entrée thématique Lettre C 
+* [annexe A4](Annexe_A4.md) : Entrée thématique Lettre D 
+* [annexe A5](Annexe_A5.md) : Entrée thématique Lettre E 
+* [annexe A6](Annexe_A6.md) : Entrée thématique Lettre F 
+* [annexe A7](Annexe_A7.md) : Entrée thématique Lettre G 
+* [annexe A8](Annexe_A8.md) :Entrée thématique Lettre H 
+* [annexe A9](Annexe_A9.md) : Entrée thématique Lettre I 
+* [annexe A10](Annexe_A10.md) : Entrée thématique Lettre J 
+* [annexe A11](Annexe_A11.md): Entrée thématique Lettre K 
 
-* [annexe A12](): Définitions de l'entrée thématique L
+* [annexe A12](Annexe_A12.md): Entrée thématique LettreL
 
-* [annexe A13](): Définitions de l'entrée thématique M
+* [annexe A13](Annexe_A13.md): Entrée thématique Lettre M
 
-* [annexe A14](): Entrée thématique N
+* [annexe A14](Annexe_A14.md): Entrée thématique LettreN
 
-* [annexe A15](): Définitions de l'entrée thématique O
+* [annexe A15](Annexe_A15.md): Entrée thématique Lettre O
 
-* [annexe A16](): Définitions de l'entrée thématique P
+* [annexe A16](Annexe_A16.md): Entrée thématique Lettre P
 
-* [annexe A17](): Définitions de l'entrée thématique Q
+* [annexe A17](Annexe_A17.md): Entrée thématique Lettre Q
 
-* [annexe A18](): Entrée thématique R
+* [annexe A18](Annexe_A18.md): Entrée thématique Lettre R
 
-* [annexe A19](): Définitions de l'entrée thématique S
+* [annexe A19](Annexe_A19.md): Entrée thématique Lettre S
 
-* [annexe A20](): Définitions de l'entrée thématique T
+* [annexe A20](Annexe_A20.md): Entrée thématique LettreT
 
-* [annexe A21](): Définitions de l'entrée thématique U
+* [annexe A21](Annexe_A21.md): Entrée thématique Lettre U
 
-* [annexe A22](): Définitions de l'entrée thématique V
+* [annexe A22](Annexe_A22.md): Entrée thématique Lettre V
 
-* [annexe A23](): Entrée thématique W
+* [annexe A23](Annexe_A23.md): Entrée thématique Lettre W
 
-* [annexe A24](): Définitions de l'entrée thématique X
+* [annexe A24](Annexe_A24.md): Entrée thématique Lettre X
 
-* [annexe A25](): Définitions de l'entrée thématique Y
+* [annexe A25](Annexe_A25.md): Entrée thématique Lettre Y
 
-* [annexe A26](): Définitions de l'entrée thématique Z
+* [annexe A26](Annexe_A26.md): Entrée thématique Lettre Z
 
 
 ---
 
 ## Contenu détaillé des données d'éclairages des enjeux de l'IA
 
-### Les textes juridiques et reglementaire de référence : les textes clés
+### Les textes juridiques et reglementaires de référence : 
 
-Une liste de textes juridiques et reglementaires de référence est intégrée et gérée au sein du web documentaire.
+> Une liste de textes juridiques et reglementaires de référence est intégrée et gérée au sein du web documentaire.
 
-Cette liste doit notamment permettre d'associer chaque cas pratique étudiée à une ou plusieurs références juridiques correspondantes. 
+* Cette liste doit notamment permettre d'associer chaque cas pratique étudiée à une ou plusieurs références juridiques correspondantes. 
 
-L'objectif est de faciliter une prise de connaissance des textes de référence en association à une situation concrête. Des quizz assurent une aide à la mémorisation des textes et des réglementations existantes. La connaissance des articles de cette partie doit permettre d'émettre une qualification juridique sur les différents enjeux d'un projet de SIA.
+* L'objectif est de faciliter une prise de connaissance des textes de référence en association à une situation concrête. Des quizz assurent une aide à la mémorisation des textes et des réglementations existantes. La connaissance des articles de cette partie doit permettre d'émettre une qualification juridique sur les différents enjeux d'un projet de SIA.
 
- Pour chaque référence de cette liste un __tag__ (@Reglementation) est associée.
+
 
 
 _Les articles de cette partie sont décrits en détails dans l'annexe B_
 
-* [annexe B1](): Les textes juridiques de références
+* [voir annexe B1](): Les textes juridiques de références
+  Pour la conception de cette liste,  il est proposé de s'appuyer dans un premier lieu sur celle  publiée dans les actes du colloque du  CESE.
 
 
-> Pour la conception de cette liste,  il est proposé de s'appuyer dans un premier lieu sur celle  publiée dans les actes du colloque du  CESE.
+* source principale  : Novembre 2023 - L'intelligence artificielle (IA) - risques et opportunités : des enjeux à débattre  [^1]
 
-* source : Novembre 2023 - L'intelligence artificielle (IA) - risques et opportunités : des enjeux à débattre  [^1]
+Pour chaque référence de cette liste un __tag__ (@Reglementation) est associée.
 
+<br>
 
 __Les dates clées des textes juridiques :__
 
@@ -337,42 +335,44 @@ __Les dates clées des textes juridiques :__
 
 #### Contexte historique et évènements marquants : les dates clés 
 
-Cette partie spécifie les dates clés de l'émergence de l'IA et des évènements de son histoire contemporaine, de ce webdocumentaire.
+> Cette partie spécifie les dates clés de l'émergence de l'IA et des évènements de son histoire contemporaine, de ce webdocumentaire.
 
-Ces événements sont restitués sous forme individuel et sous la forme d'une frise ineractive.
+* Ces événements sont restitués sous forme d'article individuel et sous la forme d'une frise temporelle interactive :
+  * Deux principales frises sont définies en fonction de la mention d'une année de référence et/ou d'une date d'évenements. 
+  * Pour une frise présentant une chronologie détaillée par dates clés, les évènements sont identifiables selon qu'il s'agisse d'un texte national, d'un texte européen, d'un texte propre à l'IA ou d'un texte sur la protection des données.
+  * Des frises historiques optionelles,  sur des thématiques indépendantes. peuvent être également restitué à partir, par exemple, des dates des évènements de référence en matière d'inclusion numérique par exemple. 
 
-Les frises historiques sont interactives. Deux principales frises sont définies en fonction de la mention d'une année de référence et/ou d'une date d'évenements. 
-Pour une frise présentant une chronologie détaillée par dates clés, les évènements sont identifiables selon qu'il s'agisse d'un texte national, d'un texte européen, d'un texte propre à l'IA ou d'un texte sur la protection des données.
 
-Des frises historiques optionelles,  sur des thématiques indépendantes. peuvent être également restitué à partir, par exemple, des dates des évènements de référence en matière d'inclusion numérique par exemple. 
+_Cette partie constitutive du <u> livrable est décrite en détails dans l'annexe B_ </u>.
 
-* [annexe B2](): Les dates clés de l'émergence de l'IA
+
+* [voir annexe B2](): Les dates clés de l'émergence de l'IA
     * La frises des années clés de l'émergence de l'IA
     * La frise de l'émergence des textes  juridiques sur le numériques
     * La frise des évènements contemporains de l'IA : Ia générative...
    * La frise des évènements en matière d'inclusion numérique
 
-__Les sources :__
+<br> 
 
->Pour constituer les dates clés de l'émergence de l'IA, il est proposé de s'appuyer sur celles publiées dans les actes du colloque du  CESE.
+* Source principale  : 
+  Pour constituer les dates clés de l'émergence de l'IA, il est proposé de s'appuyer sur celles publiées dans les actes du colloque du  CESE.
 
-* Novembre 2023 - L'intelligence artificielle (IA) - risques et opportunités : des enjeux à débattre
+  * Novembre 2023 - L'intelligence artificielle (IA) - risques et opportunités : des enjeux à débattre  [^1]
 
 
-_Cette partie constitutive du livrable est décrit en détails dans l'annexe B_.
 
 ---
 
 
 ### Les chiffres clés  et les forces en présence
 
-Ils sont déterminés par les defintions, les études de cas pratiques, les besoins propres aux scénario de navigation dans le web documentaire.
+> Ils sont déterminés par les defintions, les études de cas pratiques, les besoins propres aux scénario de navigation dans le web documentaire.
 
 
 Ces articles disposent d'un tag en communs :  (@Chiffres clés)
 
 
-_Cette partie constitutive du livrable est décrit en détails dans l'annexe B_.
+_Cette partie constitutive du livrable est <b> décrite en détails dans l'annexe B_. </b>
 
 * [annexe B3](): Les chiffres clés et les forces en présence
 * [annexe B4](): Les enjeux socio économiques de l'IA
@@ -387,9 +387,9 @@ Cette partie présente des études de cas concrêts (monographie)  de situations
 
 Elle vise à illustrer les enjeux pratiques en entreprise et dans les organisations de l'IA, de sa conception à son incidence une fois en production.  
 
-Le tag commun aux situation commentées est  (@Cas pratique)
+Le tag commun aux situation commentées est : (@Cas pratique)
 
-_Cette partie constitutive du livrable est décrit en détails dans l'annexe C_.
+_Cette partie constitutive du livrable est décrite en détails dans l'annexe C_.
 
 
 * [annexe C1](): Une liste des applications de l'IA et des exemples commentées
@@ -411,9 +411,13 @@ _Cette partie constitutive du livrable est décrit en détails dans l'annexe C_.
 1. Véhicules autonomes
 1. ...
 
+Le tag (@Application) est commun aux présentations des applications  
+
+_Cette partie constitutive du livrable est décrite en détails dans l'annexe C_.
+
 * [annexe C1](): Une liste détaillées des applications de l'IA et des exemples commentées
 
-Le tag (@Application) est commun aux présentations des applications  
+
 
 
 _Les articles de cette partie sont décrits en détails dans l'annexe C_
@@ -421,6 +425,7 @@ _Les articles de cette partie sont décrits en détails dans l'annexe C_
 ---
 ### Les articles de presse
 
+_Les articles de cette partie sont décrits en détails dans l'annexe C_
 
 * [annexe C2](): La revue d' articles de presse
 
@@ -449,6 +454,8 @@ Le tag commun aux situations étudiées est :
 
 _Cette partie constitutive du livrable est décrit en détails dans l'annexe C._
 
+* [annexe C3](): Les études de cas pratiques et les monographies 
+
 ---
 
 ## Contenu détaillé des animations interactives et de la médiathèque
@@ -475,10 +482,9 @@ _Cette partie constitutive du livrable est décrit en détails dans l'annexe C._
         tags: (@Video) (@CESE)
 
 
-_Cette partie constitutive du livrable est décrite en détails dans l'annexe D_.
+_Cette partie constitutive du livrable est décrite <u> en détails dans l'annexe D_. </U>
 
-
-* [annexe D1]()Contenu détaillé des animations interactives
+* [annexe D1]() : Contenu détaillé des animations interactives
     * Activité d'évaluation : tests de connaissance, tests de compétences numériques
     * Activité ludique
     * Activité pédagogique
