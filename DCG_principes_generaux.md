@@ -4,7 +4,7 @@
 ## Dossier de conception - présentation du projet
 
 <u> ___Partie 1 - Principes généraux___ </u> <br>
-[ _Partie 2 - Description des contenus documentaires de l'atelier_ ](DCG_presentation_contenu_generale_du_documentaire) 
+[ _Partie 2 - Description des contenus documentaires de l'atelier_ ](DCG_presentation_contenu_generale_du_documentaire.md) 
 
 
 ### Objectif du web documentaire cible :
@@ -78,7 +78,7 @@ Pour la maquette du web documentaire cible, il est proposé de retenir la soluti
 
 #### Avantages de la solution technique Tiddlywiki : 
 
-Avantage de la solution technique tiddlywiki :
+Avantage du framework javascript tiddlywiki :
 * Libre et open source 
 * Permet de collecter et mettre à disposition facilement un ensemble de ressources tout en offrant des fonctionnalités de recherche avancée dans la masse d'information obtenue. 
 * Permet un déploiement local. Le livrable est un site web fonctionnel, à l'apparence devenue familière d'un notebook.  
@@ -89,7 +89,7 @@ Avantage de la solution technique tiddlywiki :
 * Le contenu peut être personnalisé facilement,  y compris par des non techniciens
 * > L'accessibilité est prise en charge par le framework : le résultats de  tests spécifiques seront mis à disposition par le developpeur principal de la solution technique provisoire (acteur: Benoit SADRIN)
 
-Inconvénients de hla solution tecnique javascript  et du framework retenu:
+Inconvénients du framework tiddlywiki:
 
 * La solution technique du framework tiddliwiki ne favorise pas un rendu graphique trés poussé mais propose des fonctionnalités variées d'interaction et de datavisualisation open source.
 * L'utilisateur peut trouver la prise en main du framework déroutante.  
@@ -99,6 +99,8 @@ Inconvénients de hla solution tecnique javascript  et du framework retenu:
     * la possibilité d'un  déploiement technique et d'une animation dans toutes les circonstances.
 A noter : de nombreux contournements techniques autorisent de lever cette limite pour les supports média ( images, sons audio, de video...). 
 * Le livrable tiddlywiki et ses fonctionnalités embarquées sont difficilement transposable sur un autre framework.
+
+Pour plus de détail :  [Consulter le site de la solution](https://tiddlywiki.com/)
 
 ---
 
