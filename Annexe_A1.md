@@ -8,9 +8,9 @@ paginate: true
  ## Web Documentaire : Partageons l'IA
 
 
-[_Partie 1 - Principes généraux_](DCG_principes_generaux.md) 
- [_Partie 2 - Description des contenus documentaires partagés lors de l'atelier_](DCG_presentation_contenu_general_du_documentaire) 
- _Annexe A1 - Présentation détaillée du contenu documentaire_
+[_Partie 1 - Principes généraux_](DCG_principes_generaux.md) <br>
+ [_Partie 2 - Description des contenus documentaires partagés lors de l'atelier_](DCG_presentation_contenu_general_du_documentaire.md) <br>
+ <b> <u>_Annexe A1 - Présentation détaillée du contenu documentaire_ </u> </b>
 
 <!-- _paginate: skip -->
 

@@ -4,7 +4,7 @@
 ## Dossier de conception - présentation du projet
 
 <u> ___Partie 1 - Principes généraux___ </u> <br>
-[ _Partie 2 - Description des contenus documentaires de l'atelier_ ](DCG_presentation_contenu_generale_du_documentaire.md) 
+[ _Partie 2 - Description des contenus documentaires de l'atelier_ ](DCG_presentation_contenu_general_du_documentaire.md) 
 
 
 ### Objectif du web documentaire cible :
