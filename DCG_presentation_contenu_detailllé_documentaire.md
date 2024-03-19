@@ -15,6 +15,11 @@ Un glossaire des termes et concepts clés est intégré au web documentaire.
 
 Les libellés des 26 entrées thématiques sont les suivants (libellés finaux à valider avant publication):
 
+Un glossaire des termes et concepts clés est intégré au web documentaire.
+ Il est structuré autour de 26 entrées thématiques, accessibles via une page d'entrée dédiée.
+
+Les libellés des 26 entrées thématiques sont les suivants (libellés finaux à valider avant publication):
+
 1. Entrée thématique : __A__ comme __Apprentissage__ 
   
     > Les définitions pour cette entrée thématique renvoient :
@@ -30,7 +35,7 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
     > - aux enjeux techniques associés, le __Big Data__
 
 
-1. Entrée thématique : __C__ comme __Confiance__  et __Compétences__ en matière d'IA:
+1. Entrée thématique : __C__ comme __Confiance__  :
 
    >  Les définitions pour cette entrée renvoient :
    >    * Biais algorithmique:
@@ -60,11 +65,7 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
     > - les dispositifs européen  sur  de l'IA 
 
 
-1. Entrée thématique : __F__ comme la __France__ -  L'IA et ses enjeux nationaux
-    > Entrée du glossaire qui rassemble : 
-      >    - les enjeux et <b> dispositifs nationaux</b> sur  de l'IA 
-    > - Les principales <b> références réglementaires et juridiques </b>
-
+1. Entrée thématique : __F__ comme la __Formation__  en matière de numérique et d'IA 
 
 
 1. Entrée thématique : __G__ comme __GAFAM__  et partage de la valeur ajoutée de l'IA 
@@ -90,11 +91,11 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
    > - les <b> définitions et les concepts clés principaux </b> au sujet de l'<b> intelligence artificielle </b>  des premiers exemples de grand domaine d'application
    
 
-1. Entrée thématique : __J__ comme __Juridique__ et l'IA  
+1. Entrée thématique : __J__ comme __Juridique__ et les enjeux de l'IA  
    > Cette entrée du glossaire rassemble :
    > - les <b> définitions autour des enjeux juridiques </b> de l'IA
 
-1. Entrée thématique : __K__ comme Evaluation __KPI__ : IA et l'évaluation de la performance en matière de SIA
+1. Entrée thématique : __K__ comme Evaluation (__KPI__) : Evaluation de la performance en matière de SIA
 
     >   Cette entrée thématique rassemble des définitions sur les KPI et la mesure de la performance dans un projet informatique, en particulier un projet de SIA.
 
@@ -103,12 +104,19 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
 
     >   Cette entrée thématique rassemble des éléments d'introduction à l'__IA générative__ en préalable à sa mise en pratique
 
-1. Entrée thématique : __M__ comme __Methodologie__ et Maitrise par l'utilisateur  de l'IA
-  
+1. Entrée thématique : __M__ comme __Methodologie__ et Maitrise par l'utilisateur de l'IA  
+
+ > Cette entrée du glossaire propose des __recommandations__ et une __méthodologie d'approche__ lors de l'introduction d'un projet informatique intégrant l'IA pour :
+    >  - Les chefs d'entreprise ou décisionnaires : éléments de méthodologie, points de contrôle et de vigilance
+    >  - Les représentants du personnels :   éléments de méthodologie, points de contrôle et de vigilence, levier d'actions
+ > - l'__organisation du travail__ et l'IA 
+    > - la répartition de la valeur ajoutée
+    > - le dialogue sociale à construire : DialIA et son manifeste
     > Entrée thématique sur l'__évaluation, l'audit et la maitrise des risques__ :
     >  *  Cette entrée rassemble des prérequis avant d'aborder la thématique relatives aux recommandations méthodologique (Glossaire lettre Y ) dans le cadre d'un projet SI pour :  
     >     * les décideurs  
-    >     * les représentants du personnel 
+    >     * les représentants du personnel
+
 
 1. Entrée thématique : __N__ comme le  __Numérique et l'inclusion__
 
@@ -174,24 +182,29 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
     >  - Les zones interdites, comme  le darkweb
      
 1. Entrée thématique : __Y__ comme __Yes__ : l'IA, en route pour l'aventure
-   > Cette entrée du glossaire propose des __recommandations__ et une __méthodologie d'approche__ lors de l'introduction d'un projet informatique intégrant l'IA pour :
-    >  - Les chefs d'entreprise ou décisionnaires : éléments de méthodologie, points de contrôle et de vigilance
-    >  - Les représentants du personnels :   éléments de méthodologie, points de contrôle et de vigilence, levier d'actions
- > - l'__organisation du travail__ et l'IA 
-    > - la répartition de la valeur ajoutée
-    > - le dialogue sociale à construire : DialIA et son manifeste
-
+  
 1. Entrée thématique : __Z__ comme __Zapping__ 
     > Cette entrée du glossaire est relative aux mécanisme connus d'emprise :
     >  - du numérique et des écrans
     >  - de l'IA et des <b>stratégies de l'attention</b>, 
 
+<br> 
+
+<u> Régles de gestion du glossaire :</u>
+
 * Chaque entrée thématique du glossaire dispose d'un tag dédié dans l'outil : c'est l'exemple du tag @Apprentissage pour la thématique rassemblée à l'entrée -A- du glossaire 
 
-* Une entrée thématique contient des termes de lexique (tag = @definition)
+* Une entrée thématique contient des termes de lexique (tag = @definition)   
 Elle peut également être associée à une ou plusieurs activités.
 
 <br>
+
+* Principe de construction d'une entrée du glossaire du web documentaire  :   
+  * Spécifications techniques des défintions (tag = @definition) du lexique : 
+    * Chaque terme du lexique global ainsi que sa défintion correspondante sont stockés dans le web documentaire sous une forme unique, accessible individuellement, au format nativement markdown (exigence fonctionnelle de portabilité du lexique)
+    * Les entrées thématique du glossaires regroupent ces définitions et les associent entre elles par le biais d'un schéma interactif afin de constituer progressivement, la représentation d'___un graphe de connaissance dédié à la thématique___ . Cette entrée thématique offre ainsi un parcours de navigation libre au sein d'une même thématique (exigence fonctionnelle de navigation interactive et non linéeaire). Il existe 26 entrées thématiques au sein du glossaire. 
+    * La source des défintions est connue de l'utilisateur. Elle est également stockée en tant que systeme de référence et de metadonnées internes au web documentaire (attribut : #source). La liste des sources utilisées pour le web documentaire est gérée à partir de cet ensemble de méta d'attributs des défintions (exigence fonctionnelle de traçabilité des contenus). Cette liste est accessible de façon unique dans une rubrique dédié du web documentaire.
+
 
 * Le contenu détaillé du glossaire est l'objet d'un livrable du projet. 
  
@@ -214,7 +227,7 @@ __Autres sources__  :
 
 > LEGIFRANCE
 > * _Vocabulaire de l'intelligence artificielle_ (liste de termes, expressions et définitions adoptés)
-[vocabulaire de l'intelligene artificielle - source legifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037783813)
+[vocabulaire de l'intelligence artificielle - source legifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037783813)
 
 
 
@@ -222,6 +235,12 @@ __Autres sources__  :
 > * _Lexique en français de l'intelligence artifielle_
 [Lexique en francais de l'intelligence artificelle - source wikipedia](https://fr.wiktionary.org/wiki/Cat%C3%A9gorie:L_exique_en_fran%C3%A7ais_de_l%E2%80%99intelligence_artificielle)
 
+
+> GLOSSAIRE DU CONSEIL DE L'EUROPE
+> * _Glossaire du portail du conseil de l'europe_ :  [ Lien vers le glossaire - www.coe.int](https://www.coe.int/fr/web/artificial-intelligene/glossary)
+
+
+> FONDS DOCUMENTAIRE DU GROUPE DE TRAVAIL DIALIA
 
 _Le détail complet des sources utilisées  est précisé dans l'annexe A du dossier de conception du contenu du web documentaire_
 
@@ -252,7 +271,7 @@ Exemple :
  * Pour chaque définition du web documentaire dispose d'un __tag__ (@Definition)
 Le lexique complet est accessible sous la forme d'une liste classée par  ordre alphabétiques des termes, 
 
- > Le glossaire est une partie du lexique des termes définis et disponibles, sélectionnés autour d'une thématique. Un système de navigation permet de passer facilement d'une définition à une autre par des liens d'associations divers. 
+ > Le glossaire est une partie du lexique des termes définis et disponibles, sélectionnés autour d'une thématique. Un système de navigation permet de passer facilement d'une définition à une autre par des liens d'associations diverses. 
 
 > Le glossaire offre une vision thématique d'une sélection de definitions disponibles dans le web documentaire. Sa finalité est de proposer  des regroupements offrant la possibilité d'une navigation non linéaire entre les notions pour l'utilisateur, au grès de son cheminement personnel.
 
@@ -549,4 +568,4 @@ D'autres scénario de navigation sont construits  :
 
 * un parcours de __présentation des objectifs de l'atelier__ : ce parcours exploite une fonctionalité de diaporama linéaire présentant une serie de slides sur l'objectif de l'atelier (fonctionnalité déployée via un plug-in existant)
 Le tag pour suivre ce parcours est (@Presentation)
-    *  Voir présentation de l'atelier DialDIAIA  (Rapporteur Pascal COYO)
+    *  Voir présentation de l'atelier DIALIA  (Rapporteur Pascal COYO)
