@@ -90,11 +90,11 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
    > - les <b> définitions et les concepts clés principaux </b> au sujet de l'<b> intelligence artificielle </b>  des premiers exemples de grand domaine d'application
    
 
-1. Entrée thématique : __J__ comme la __Justice__ et l'IA  
+1. Entrée thématique : __J__ comme __Juridique__ et l'IA  
    > Cette entrée du glossaire rassemble :
    > - les <b> définitions autour des enjeux juridiques </b> de l'IA
 
-1. Entrée thématique : __K__ comme __KPI__ : IA et l'évaluation de la performance en matière de SIA
+1. Entrée thématique : __K__ comme Evaluation __KPI__ : IA et l'évaluation de la performance en matière de SIA
 
     >   Cette entrée thématique rassemble des définitions sur les KPI et la mesure de la performance dans un projet informatique, en particulier un projet de SIA.
 
@@ -103,7 +103,7 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
 
     >   Cette entrée thématique rassemble des éléments d'introduction à l'__IA générative__ en préalable à sa mise en pratique
 
-1. Entrée thématique : __M__ comme __Maitrise des risques__ et Maitrise par l'utilisateur  de l'IA
+1. Entrée thématique : __M__ comme __Methodologie__ et Maitrise par l'utilisateur  de l'IA
   
     > Entrée thématique sur l'__évaluation, l'audit et la maitrise des risques__ :
     >  *  Cette entrée rassemble des prérequis avant d'aborder la thématique relatives aux recommandations méthodologique (Glossaire lettre Y ) dans le cadre d'un projet SI pour :  
@@ -161,7 +161,7 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
     >   - des principes d'adressage des données dans le réseaux
     
 
-1. Entrée thématique : __V__ comme __Videosurveillance__ : la collecte de la preuve et de la trace avec l'IA
+1. Entrée thématique : __V__ comme __Valeur__ : la collecte de la preuve et de la trace avec l'IA
    > Cette entrée du glossaire rassemble des définitions autours des  __données__ , des __traces numériques__ et des enjeux techniques associés de centralisation et de contrôle
 
 1. Entrée thématique : __W__ comme __Web , Wordpress__ : PageRank et les réseaux
@@ -185,8 +185,6 @@ Les libellés des 26 entrées thématiques sont les suivants (libellés finaux �
     > Cette entrée du glossaire est relative aux mécanisme connus d'emprise :
     >  - du numérique et des écrans
     >  - de l'IA et des <b>stratégies de l'attention</b>, 
-
-
 
 * Chaque entrée thématique du glossaire dispose d'un tag dédié dans l'outil : c'est l'exemple du tag @Apprentissage pour la thématique rassemblée à l'entrée -A- du glossaire 
 
