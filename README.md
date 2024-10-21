@@ -1,105 +1,139 @@
-### Un projet de web documentaire pour DialIA
+# Glossaire DIALIA
 
-_Un support d'animation pour l'atelier <b>''Partageons l'IA''</b>_
+## Présentation
 
----
+**Objectif** :
 
-###  Le webdoc iap2p 
+L'objectif initial était de mettre à dispostion un outil de type <strong>web documentaire </strong> permettant de contribuer au dialogue social technologique au travail.
 
-> __Partageons l'IA de Pair à Pair__ : ___iap2p___
->
->Un <b> web documentaire </b> en support pour l'atelier de sensibilisation et d'acculturation "Partageons l'IA"  dans le cadre de la charte commune du projet <b>DialIA</b>
+<fieldset>
+	
+ Le livrable se présente sous la forme d'__un glossaire, évolutif, de définitions utiles, et de références juridiques dans les domaines du numériques et de la conception de SIA__. 
+ </fieldset>
+ <center> (MVP)</center>
 
----
+**Le besoin** :
 
-### Dossier de conception du web documentaire 
+Ce web documentaire devait pouvoir faciliter l'animation d'un atelier d'acculturation sur les thématiques:
 
-##### Principes généraux,  spécifications techniques et fonctionnelles: 
-*   [Présentation et objectifs du web documentaire ](DCG_principes_generaux.md)
+- de l'<u>intelligence artificielle</u>
+- de la <u>conception de projet de SIA</u>.
 
-##### Description  du contenu documentaire  :   
-* [Présentation du contenu  documentaire ](DCG_presentation_contenu_general_du_documentaire.md)
+Public cible : Les parties prenantes d'un projet de SIA, pour une consultation individuelle ou lors d'une animation dans le cadre d'un atelier de sensibilisation aux enjeux du dialogue social à propos d'IA.
 
+**Contexte** :
 
-###### Contenu détaillé du glossaire : annexes A 
+L'outil a été réalisé dans le cadre des ateliers du Projet DIALIA, à l'initiative des contributeurs de la thématique "Acculturation à l'IA" .
 
- * [annexe A1](Annexe_A1.md) : Entrée thématique A 
-* [annexe A2](Annexe_A2.md) : Définitions de l'entrée thématique B 
-* [annexe A3](Annexe_A3.md) : Définitions de l'entrée thématique C 
-* [annexe A4](Annexe_A4.md) : Définitions de l'entrée thématique D 
-* [annexe A5](Annexe_A5.md) : Définitions de l'entrée thématique E 
-* [annexe A6](Annexe_A6.md) : Définitions de l'entrée thématique F 
-* [annexe A7](Annexe_A7.md) : Définitions de l'entrée thématique G 
-* [annexe A8](Annexe_A8.md) : Définitions de l'entrée thématique H 
-* [annexe A9](Annexe_A9.md) : Entrée thématique I 
-* [annexe A10](Annexe_A10.md) : Définitions de l'entrée thématique J 
-* [annexe A11](Annexe_A11.md): Définitions de l'entrée thématique K 
+> Le projet DIALIA (“Dialogue IA”) est coordonnée par l’ IRES , avec la contribution de l'ANACT, en partenariat avec quatre des organisations syndicales membres de l’Institut.
 
-* [annexe A12](Annexe_A12.md): Définitions de l'entrée thématique L
+<br>
 
-* [annexe A13](Annexe_A13.md): Définitions de l'entrée thématique M
+## Les fonctionnalités générales du glossaire :
 
-* [annexe A14](Annexe_A14.md): Entrée thématique N
+- Un **moteur de recherche**
+- Une **entrée par thématiques** permet de naviguer facilement entre les notions
+- Une entrée via la **liste des définitions couvertes**
+- Une entrée via **une liste d'abréviations utiles**
+- La navigation est faciltée par un **systeme de renvois et de références entre concepts** clés via un systeme de tag
+- Le "fil d'ariane" de la navigation est interactif. L'ensemble des articles consultées constitue le flux de la page active.
 
-* [annexe A15](Annexe_A15.md): Définitions de l'entrée thématique O
+### <u>Le choix des technologies utilisées</u> :
 
-* [annexe A16](Annexe_A16.md): Entrée thématique P
+<fieldset>
 
-* [annexe A17](Annexe_A17.md): Définitions de l'entrée thématique Q
+<details>
+	<summary> <strong> Benchmark  des solutions techniques open source en fonction des fonctionnalités attendues d'un web documentaire </strong></summary>
 
-* [annexe A18](Annexe_A18.md): Entrée thématique R
+<fieldset>
 
-* [annexe A19](Annexe_A19.md): Définitions de l'entrée thématique S
+| Fonctionnalité du web documentaire         | Markdowwn <br> (+ Marp) | Tiddlywiki.js <br>(+ plugins open source) | autre framework web (exemple reveal.js) |
+| ------------------------------------------ | ----------------------- | ----------------------------------------- | --------------------------------------- | ------------------------------ |
+| Diffusion web de texte                     | **oui**                 | **oui**                                   | **oui**                                 |
+| Diffusion web de photo                     | **oui**                 | **oui**                                   | **oui**                                 |
+| Diffusion de video                         | non                     | **oui**                                   | oui <br> (intgré avec plugin) )         |
+| Diffusion de sons audio                    | non                     | **oui**                                   | oui                                     |
+| Modalités d'animation interactive          | limitée                 | **oui**                                   | developppement <br> spécifique          |
+| Modalités de navigation non linéaire       | non                     | **oui**                                   | developppement <br> spécifique          |
+| Modalités de datavisualisation interactive | non                     | **oui**                                   | developppement <br> spécifique          |
+| Possibilité de personnaliser le contenu    | **oui**                 | **oui**                                   | developppement <br> spécifique          |
+| Possibilité narrative                      | non                     | **oui**                                   | oui                                     | developppement <br> spécifique |
+| Modalité de quizz ou d'évaluation          | **oui**                 | **oui**                                   | developppement <br> spécifique          |
 
-* [annexe A20](Annexe_A20.md): Définitions de l'entrée thématique T
+</fieldset>
+	
+</details>
 
-* [annexe A21](Annexe_A21.md): Définitions de l'entrée thématique U
+<br>
 
-* [annexe A22](Annexe_A22.md): Définitions de l'entrée thématique V
+<details>
+<summary><strong> Les plateformes de service dédiées au web documentaire </strong> </summary>
 
-* [annexe A23](Annexe_A23.md): Entrée thématique W
+Liste non exhaustives :
 
-* [annexe A24](Annexe_A24.md): Définitions de l'entrée thématique X
+- [Plateforme klynt](https://www.klynt.net/fr/pricingklynt/)
+- [Plateforme Racontr](https://r83c929680.racontr.com/)
+- [Plateforme Génially](https://genial.ly/fr/)
+- [Plateforme Thinglink](https://www.thinglink.com/fr/)
+- ...
 
-* [annexe A25](Annexe_A25.md): Définitions de l'entrée thématique Y
+</details>
 
-* [annexe A26](Annexe_A16.md): Définitions de l'entrée thématique Z
-
-
-
-###### Contenu détaillé des données d'éclairages des enjeux de l'IA: annexes B 
-
-
-* [annexe B1](Annexe_B1.md): Les textes juridiques de références
-* [annexe B2](Annexe_B2.md): Les dates clés de l'émergence de l'IA
-    * La frises des années clés de l'émergence de l'IA
-    * La frise de l'émergence des textes  juridiques sur le numériques
-    * La frise des évènements contemporains de l'IA : Ia générative...
-   * La frise des évènements en matière d'inclusion numérique
-* [annexe B3](Annexe_B3.md): Les chiffres clés et les forces en présence
-* [annexe B4](Annexe_B4.md): Les enjeux socio économiques de l'IA
-* [annexe B5](Annexe_B5.md): Les enjeux environnementaux de l'IA
-
-
-
-###### Contenu détaillé des études de cas : Annexe C
-
-* [annexe C1](Annexe_C1.md): Une liste des applications de l'IA et des exemples commentées
-* [annexe C2](Annexe_C2.md): La revue d' articles de presse 
-* [annexe C3](Annexe_C3.md): Les études de cas pratiques et les monographies : 
-    * Introduction d'un algorithme à la CAF,
-    * Mise en palce d'assistant personnalisé à la Poste
-    * Le programme intelligene emploi à france travail (ex pole emploi) 
-
-###### Contenu détaillé des interactions, des activités et des contenus multimédia : Annexe D
-
-* [annexe D1](Annexe_D1.md) Contenu détaillé des animations interactives
-    * Activités d'évaluations : tests de connaissances, tests de compétences numériques
-    * Activités ludiques
-    * Activité découverte par la pratique de l'IA générative
-    * Activités pédagogiques
-
-* [annexe D2](Annexe_D2.md): Médiathèque et supports video 
+</fieldset>
 
 
-###### Lien vers la présentation de a charte DialIA
+<fieldset>
+L'application choisie pour porter le glossaire DIALIA est <b> <i> TiddlyWiki </i></b>.
+</fieldset>
+
+- <u>Principe</u> : <b> C'est une application de bloc-notes personnelle basée sur une application wiki. </b>
+
+- Site de référence : [[https://tiddlywiki.com/]]
+- <u>Avantages</u> :
+
+  - En plus d'être un <b>site Web statique </b>, TiddlyWiki est implémenté comme une <strong>application monopage ([[SPA]])</strong>. Tidlywiki permet d'intégrer une logique d'application dans des pages Web pour les rendre dynamiques.
+  - [[Licence libre]]
+  - [[Ecoconception]] et sécurité : leger en taille (environ 10 Mo en tout) et executé uniquement sur le poste de l'utilisateur par le navigateur (pas de serveur, pas de tiers partie)
+  - <strong> Le fichier HTML
+    contient tout ce qui est nécessaire pour démarrer l'application (pas de dépendances). </strong> Il est exportable pour une consultation en local en utilisant la barre d'outil en haut de la page ou en cliquant sur le bouton suivant :
+
+<center><$button><$action-sendmessage
+  $message="tm-download-file"
+  $param="$:/core/templates/tiddlywiki5"
+  download="glossaire_DialIA.html"/>
+Exporter le glossaire
+</$button>
+</center>
+
+- <u>Principes techniques </u>:
+
+  - D'un point de vue technique, TiddlyWiki est <strong>une architecture [[MVC]] </strong> assez classique, avec une séparation stricte des tâches. Le modèle (Model) est le magasin tiddler, la vue (View) est un arbre de rendu et le contrôleur (Controllers) est le code principal lui-même.
+  - TiddlyWiki peut être considéré comme faisant partie de la <strong>Jamstack </strong>: En fait, il existe des projets comme [[Tddlyjam|https://tiddlyjam.com/]] qui permettent de transformer TiddlyWiki en sites statiques et blogs, inspirés par l'approche [[JAMstack]]. Cela permet de créer des applications web modernes et performantes en utilisant TiddlyWiki comme base.
+  - Plugins variés disponibles :
+    - Gestion de Mardown
+    - Construction de graphe de connaissance avec Graphviz
+  - Dessiner en utilisant les fonctionnalités de draw.io
+
+<br>
+
+<details>
+	<summary> <strong> Pour aller plus loin avec Tiddlywiki: </strong>
+	</summary>
+	
+* Site pour les developpeurs : [[https://tiddlywiki.com/dev/]]
+
+- [[https://tw5magick.tiddlyspot.com/]]
+
+- [[https://tiddlyhost.com/]]
+
+- [[Liste des dépot GIT de tiddlywiki|https://github.com/TiddlyWiki]]
+
+  - endpoint API GitHub des dépots avec tiddlywiki5: [[https://api.github.com/search/repositories?q=TiddlyWiki]]
+
+  - endpoint du dépot principal de tiddlywiki: [[https://api.github.com/repos/tiddlywiki/tiddlywiki5]]
+
+- [[TiddlyWiki toolmap|https://dynalist.io/d/zUP-nIWu2FFoXH-oM7L7d9DM]]
+
+{{$:/img/ico/tiddlyWiki.png}}
+
+</details>
