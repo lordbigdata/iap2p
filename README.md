@@ -92,7 +92,7 @@ Liste non exhaustives :
 
 - <u> Avantages</u> :
 
-  - Dynamique : En plus d'être un <b>site Web statique </b>, TiddlyWiki est implémenté comme une <strong>application monopage ([[SPA]])</strong>. Ainsi, Tidlywiki permet d'intégrer une logique d'application dans des pages Web pour les rendre dynamiques.
+  - Dynamique : En plus d'être un <b>site Web statique </b>, TiddlyWiki est implémenté comme une <strong>application monopage (SPA)[]</strong>. Ainsi, Tidlywiki permet d'intégrer une logique d'application dans des pages Web pour les rendre dynamiques.
   - [[Licence libre]]
   - [[Ecoconception]] et sécurité : leger en taille (environ 10 Mo en tout) et executé uniquement sur le poste de l'utilisateur par le navigateur (pas de serveur, pas de tiers partie)
   - Simple et securisé: <strong> Le fichier HTML
